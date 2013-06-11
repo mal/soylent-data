@@ -1,0 +1,291 @@
+{
+    "maltodextrin": {
+        "product": "Maltodextrin",
+        "supplier": "Bulk Powders",
+        "cost": 11.99,
+        "quantity": 5000,
+        "url": "http://www.bulkpowders.co.uk/maltodextrin.html",
+        "nutrition": [ 100, {
+            "kcal": 400,
+            "carbohydrate": 100
+        } ]
+    },
+    "oats": {
+        "product": "Ultra Fine Scottish Oats",
+        "supplier": "Bulk Powders",
+        "cost": 9.75,
+        "quantity": 5000,
+        "url": "http://www.bulkpowders.co.uk/ultra-fine-scottish-oats.html",
+        "nutrition": [ 100, {
+            "kcal": 361,
+            "protein": 11,
+            "carbohydrate": 61.1,
+            "fat": 8.1,
+            "fibre": 8.5,
+            "sodium": 0.03,
+            "iron": 0.004
+        } ]
+    },
+    "whey": {
+        "product": "Pure Whey Protein",
+        "supplier": "Bulk Powders",
+        "cost": 46.99,
+        "quantity": 5000,
+        "url": "http://www.bulkpowders.co.uk/pure-whey-protein.html",
+        "nutrition": [ 30, {
+            "kcal": 118,
+            "protein": 24.6,
+            "carbohydrate": 1.8,
+            "fat": 2
+        } ]
+    },
+    "flavoured-whey": {
+        "product": "Pure Whey Protein",
+        "supplier": "Bulk Powders",
+        "cost": 31.49,
+        "quantity": 2500,
+        "url": "http://www.bulkpowders.co.uk/pure-whey-protein.html",
+        "nutrition": [ 30, {
+            "kcal": 119,
+            "protein": 23.4,
+            "carbohydrate": 2.4,
+            "fat": 2
+        } ]
+    },
+    "oil": {
+        "product": "Extra Virgin Olive Oil",
+        "supplier": "Tesco",
+        "cost": 3.50,
+        "quantity": 1000,
+        "url": null,
+        "nutrition": [ 100, {
+            "kcal": 900,
+            "fat": 100
+        } ]
+    },
+    "psyllium-husks": {
+        "product": "Psyllium Husks Powder",
+        "supplier": "Bulk Powders",
+        "cost": 13.25,
+        "quantity": 1000,
+        "url": "http://www.bulkpowders.co.uk/psyllium-husks-powder.html",
+        "nutrition": [ 100, {
+            "fibre": 100
+        } ]
+    },
+    "lecithin": {
+        "product": "Optima Lecithin Granules",
+        "supplier": "Holland & Barrets",
+        "cost": 12.85,
+        "quantity": 500,
+        "url": null,
+        "nutrition": [ 100, {
+            "kcal": 900,
+            "carbohydrate": 8,
+            "fat": 91,
+            "omega-3": 4,
+            "sodium": 0.04,
+            "vitamin-e": 0.05,
+            "calcium": 0.2,
+            "magnesium": 0.3,
+            "iron": 0.004,
+            "phosphorus": 3.1
+        } ]
+    },
+    "multivitamin": {
+        "product": "A-Z multivitamins + minerals",
+        "supplier": "Tesco",
+        "cost": 4.29,
+        "quantity": 90,
+        "url": null,
+        "nutrition": [ 1, {
+            "vitamin-a": 0.0008,
+            "vitamin-d": 0.000005,
+            "vitamin-e": 0.01,
+            "vitamin-k": 0.00002,
+            "vitamin-c": 0.06,
+            "thiamin": 0.0014,
+            "riboflavin": 0.0016,
+            "niacin": 0.018,
+            "vitamin-b6": 0.002,
+            "folate": 0.0002,
+            "vitamin-b12": 0.000001,
+            "biotin": 0.00015,
+            "pantothenate": 0.006,
+            "calcium": 0.2,
+            "phosphorus": 0.145,
+            "magnesium": 0.1,
+            "iron": 0.014,
+            "zinc": 0.015,
+            "copper": 0.001,
+            "manganese": 0.001,
+            "selenium": 0.000025,
+            "chromium": 0.000025,
+            "iodine":  0.00015
+        } ]
+    },
+    "salt": {
+        "product": "Sea Salt",
+        "supplier": "Tesco",
+        "cost": 0,
+        "quantity": 0,
+        "url": null,
+        "nutrition": [ 100, {
+            "sodium": 39.34,
+            "chloride": 60.66
+        } ]
+    },
+    "lo-salt": {
+        "product": "Saxa So-Low",
+        "supplier": "Tesco",
+        "cost": 1.59,
+        "quantity": 350,
+        "url": null,
+        "nutrition": [ 100, {
+            "potassium": 26.7495,
+            "sodium": 18.8832,
+            "chloride": 53.3673
+        } ]
+    },
+    "monosodium-phosphate": {
+        "product": "Monosodium Phosphate",
+        "supplier": "Amazon",
+        "cost": 14.99,
+        "quantity": 300,
+        "url": "http://www.amazon.co.uk/gp/product/B004VMDP7S",
+        "nutrition": [ 100, {
+            "phosphorus": 25.82,
+            "sodium": 19.16
+        } ]
+    },
+    "potassium-gluconate": {
+        "product": "Now Foods Potassium Gluconate",
+        "supplier": "Amazon",
+        "cost": 17.08,
+        "quantity": 453.592,
+        "url": "http://www.amazon.co.uk/gp/product/B0015C2ZI2",
+        "nutrition": [ 1.74, {
+            "potassium": 0.27
+        } ]
+    },
+    "calcium": {
+        "product": "HealthAid Calcium Complete 800mg (Tablets)",
+        "supplier": "Amazon",
+        "cost": 7.56,
+        "quantity": 120,
+        "url": "http://www.amazon.co.uk/gp/product/B002QWKTRY",
+        "nutrition": [ 1, {
+            "calcium": 0.4
+        } ]
+    },
+    "magnesium": {
+        "product": "Now Foods Magnesium Caps 400mg (Tablets)",
+        "supplier": "Amazon",
+        "cost": 14.91,
+        "quantity": 180,
+        "url": "http://www.amazon.co.uk/gp/product/B00772DITE",
+        "nutrition": [ 1, {
+            "magnesium": 0.4
+        } ]
+    },
+    "selenium": {
+        "product": "Solgar Selenium 100mcg (Tablets)",
+        "supplier": "Amazon",
+        "cost": 8.09,
+        "quantity": 100,
+        "url": "http://www.amazon.co.uk/gp/product/B0001VVJBC",
+        "nutrition": [ 1, {
+            "selenium": 0.0001
+        } ]
+    },
+    "manganese": {
+        "product": "Solgar Chelated Manganese (Tablets)",
+        "supplier": "Amazon",
+        "cost": 7.25,
+        "quantity": 100,
+        "url": "http://www.amazon.co.uk/gp/product/B00020ICBW",
+        "nutrition": [ 1, {
+            "manganese": 0.008
+        } ]
+    },
+    "molybdenum": {
+        "product": "Solgar Chelated Molybdenum (Tablets)",
+        "supplier": "Amazon",
+        "cost": 10.99,
+        "quantity": 100,
+        "url": "http://www.amazon.co.uk/gp/product/B0001VVZU2",
+        "nutrition": [ 1, {
+            "molybdenum": 0.00015
+        } ]
+    },
+    "vitamin-b12": {
+        "product": "Lifeplan Vitamin B12 25mcg (Tablets)",
+        "supplier": "Amazon",
+        "cost": 4.64,
+        "quantity": 100,
+        "url": "http://www.amazon.co.uk/gp/product/B004QX4PDU",
+        "nutrition": [ 1, {
+            "vitamin-b12": 0.000025
+        } ]
+    },
+    "vitamin-k": {
+        "product": "Solgar Vitamin K (Natural) 100mcg (Tablets)",
+        "supplier": "Amazon",
+        "cost": 4.91,
+        "quantity": 100,
+        "url": "http://www.amazon.co.uk/gp/product/B00016XEY2",
+        "nutrition": [ 1, {
+            "vitamin-k": 0.0001
+        } ]
+    },
+    "choline-bitartrate": {
+        "product": "Choline Bitartrate",
+        "supplier": "Bulk Powders",
+        "cost": 14.99,
+        "quantity": 500,
+        "url": "http://www.bulkpowders.co.uk/choline-bitartrate.html",
+        "nutrition": [ 253.252, {
+            "choline": 104.172
+        } ]
+    },
+    "fish-oil": {
+        "product": "Select Healthy Omega 3 Fish Oil 1000mg (Capsules)",
+        "supplier": "Amazon",
+        "cost": 13.48,
+        "quantity": 360,
+        "url": "www.amazon.co.uk/gp/product/B003F10R40",
+        "nutrition": [ 1, {
+            "omega-3": 1
+        } ]
+    },
+    "msm": {
+        "product": "MSM (Methyl-Sulfonyl Methane)",
+        "supplier": "Bulk Powders",
+        "cost": 14.25,
+        "quantity": 500,
+        "url": "http://www.bulkpowders.co.uk/msm-methyl-sulfonyl-methane.html",
+        "nutrition": [ 100, {
+            "sulphur": 34.06
+        } ]
+    },
+    "l-theanine": {
+        "product": "Just Vitamins L-Theanine 200mg (Capsules)",
+        "supplier": "Amazon",
+        "cost": 12.95,
+        "quantity": 120,
+        "url": "http://www.amazon.co.uk/gp/product/B009754TOW",
+        "nutrition": [ 1, {
+            "l-theanine": 0.2
+        } ]
+    },
+    "caffeine": {
+        "product": "Caffeine",
+        "supplier": "Bulk Powders",
+        "cost": 3.49,
+        "quantity": 100,
+        "url": "http://www.bulkpowders.co.uk/caffeine.html",
+        "nutrition": [ 100, {
+            "caffeine": 100
+        } ]
+    }
+}
