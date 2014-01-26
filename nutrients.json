@@ -1,0 +1,150 @@
+{
+  "kcal": {
+    "color": "red",
+    "unit": null
+  },
+  "carbohydrate": {
+    "color": "red",
+    "unit": "kilogram"
+  },
+  "protein": {
+    "color": "red",
+    "unit": "kilogram"
+  },
+  "fat": {
+    "color": "red",
+    "unit": "kilogram"
+  },
+  "fibre": {
+    "color": "red",
+    "unit": "kilogram"
+  },
+  "calcium": {
+    "color": "yellow",
+    "unit": "kilogram"
+  },
+  "chromium": {
+    "color": "yellow",
+    "unit": "kilogram"
+  },
+  "chloride": {
+    "color": "yellow",
+    "unit": "kilogram"
+  },
+  "copper": {
+    "color": "yellow",
+    "unit": "kilogram"
+  },
+  "iodine": {
+    "color": "yellow",
+    "unit": "kilogram"
+  },
+  "iron": {
+    "color": "yellow",
+    "unit": "kilogram"
+  },
+  "magnesium": {
+    "color": "yellow",
+    "unit": "kilogram"
+  },
+  "manganese": {
+    "color": "yellow",
+    "unit": "kilogram"
+  },
+  "molybdenum": {
+    "color": "yellow",
+    "unit": "kilogram"
+  },
+  "phosphorus": {
+    "color": "yellow",
+    "unit": "kilogram"
+  },
+  "potassium": {
+    "color": "yellow",
+    "unit": "kilogram"
+  },
+  "selenium": {
+    "color": "yellow",
+    "unit": "kilogram"
+  },
+  "sodium": {
+    "color": "yellow",
+    "unit": "kilogram"
+  },
+  "sulphur": {
+    "color": "yellow",
+    "unit": "kilogram"
+  },
+  "zinc": {
+    "color": "yellow",
+    "unit": "kilogram"
+  },
+  "vitamin-a": {
+    "color": "green",
+    "unit": "kilogram"
+  },
+  "vitamin-c": {
+    "color": "green",
+    "unit": "kilogram"
+  },
+  "vitamin-d": {
+    "color": "green",
+    "unit": "kilogram"
+  },
+  "vitamin-e": {
+    "color": "green",
+    "unit": "kilogram"
+  },
+  "vitamin-k": {
+    "color": "green",
+    "unit": "kilogram"
+  },
+  "thiamin": {
+    "color": "green",
+    "unit": "kilogram"
+  },
+  "riboflavin": {
+    "color": "green",
+    "unit": "kilogram"
+  },
+  "niacin": {
+    "color": "green",
+    "unit": "kilogram"
+  },
+  "vitamin-b6": {
+    "color": "green",
+    "unit": "kilogram"
+  },
+  "folate": {
+    "color": "green",
+    "unit": "kilogram"
+  },
+  "vitamin-b12": {
+    "color": "green",
+    "unit": "kilogram"
+  },
+  "pantothenate": {
+    "color": "green",
+    "unit": "kilogram"
+  },
+  "biotin": {
+    "color": "green",
+    "unit": "kilogram"
+  },
+  "choline": {
+    "color": "green",
+    "unit": "kilogram"
+  },
+  "l-theanine": {
+    "color": "blue",
+    "unit": "kilogram"
+  },
+  "omega-3": {
+    "color": "blue",
+    "unit": "kilogram"
+  },
+  "caffeine": {
+    "color": "blue",
+    "unit": "kilogram"
+  }
+}
